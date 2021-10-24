@@ -1,0 +1,6 @@
+{
+  "name": "Roarn",
+  "description": "Bundled with roarn_modules. Comes with EzImport, and other tools to better your Roarn workspace.",
+  "version": "1.0.0",
+  "dependencies": {}
+}
